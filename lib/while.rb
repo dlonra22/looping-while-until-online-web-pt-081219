@@ -3,6 +3,8 @@ def using_while
 	#your code here
 	while levitation_force < log
 	puts "Wingardium Leviosa"
+	levitation_force += l
+	end
 end
 
 
